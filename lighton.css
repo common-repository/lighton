@@ -1,0 +1,66 @@
+hr {
+	color: #ddd;
+	background-color: #ddd;
+	height: 2px;
+	border: none;
+}
+
+table.lighton {
+	width: 100%; 
+	 
+}
+
+.lighton th, .lighton td {
+	text-align:left;
+	vertical-align:top;
+	color: #344964;
+    padding: 3px 5px 3px 5px;
+}
+
+.lighton th {
+	font-size: 12px;  
+	font-weight: bold;
+}
+
+.lighton td {  
+	font-size: 12px;  
+	font-weight: normal;
+}
+
+.td_0 {  
+	background: #F9F9F9;
+}
+
+
+.td_1 {          
+	background: #CCCCFF;
+}
+
+.lighton td a {
+	text-decoration: none;
+}
+.lighton p {
+	font-size: 10px;  
+	font-weight: normal;
+	text-align: center;
+}
+
+
+table.lighton_dash {
+	width: 100%; 
+	 
+}
+
+.lighton_dash th, .lighton_dash td {
+	text-align:left;
+	vertical-align:top;
+	padding-left:15px;
+}
+
+.lighton_dash th {
+	font-weight: bold;
+}
+
+.lighton_dash td {  
+	font-weight: normal;
+}
